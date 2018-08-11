@@ -2,9 +2,7 @@
 
 body {
     padding: 10px;
-    background: #0F2027; 
-    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
-    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+    background: url("trainbg.jpg");
     font-weight: bold;
 
 }
